@@ -1,8 +1,8 @@
 ### Hi there I'm [Junny!](https://github.com/Junnyyy)👋
 I'm a computer science student and caffine addict, who does full stack web development and security research.
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Junnyyy&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Junnyyy&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Junnyyy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Junnyyy&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Junnyyy/Junnyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
