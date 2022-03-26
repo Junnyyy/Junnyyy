@@ -1,4 +1,4 @@
-### Hi there I'm [Junny!](https://github.com/Junnyyy)👋
+### Hi there I'm [Johnny!](https://github.com/Junnyyy)👋
 I'm a computer science student and caffine addict, who does full stack web development and security research.
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Junnyyy&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <br>
