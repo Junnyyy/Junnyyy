@@ -7,7 +7,7 @@
 <p>
 I'm currently a University student majoring in computer science and full stack developer that is intaking way too much caffine.
 
-I enjoy teaching others especially about computer science and finance. When I'm not coding or attending school you can find me tinkering and playing around with cars.
+I enjoy teaching others especially about computer science and finance. When I'm not coding or attending school you can find me tinkering and playing around with cars or drinking coffee. Maybe I'm drinking coffee and tinkering with cars, who knows?.
 <p>
   
 <hr>
