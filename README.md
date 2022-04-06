@@ -1,10 +1,28 @@
-Hi there I'm [Johnny!](https://github.com/Junnyyy)👋 
-I'm a computer science student and caffine addict, who does full stack web development and security research.
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Junnyyy&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Junnyyy&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**Junnyyy/Junnyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center"> 👋 Hi there I'm Johnny </h3>
+<p align="center">
+</p>
+
+<hr>
+
+<p>
+I'm currently a University student majoring in computer science and full stack developer that is intaking way too much caffine.
+
+I enjoy teaching others especially about computer science and finance. When I'm not coding or attending school you can find me tinkering and playing around with cars.
+<p>
+  
+<hr>
+<h2 align="center"> 💬 Ask me about... </h3>
+<p align="center">Coding: C, C++, Java, Javascript, Python, Lua, PHP, ExpressJS, R, HTML, CSS<p>
+<p align="center">Tools: Google Cloud, Heroku, AWS<p>
+<hr>
+
+<h2 align="center">  🌱 I’m currently learning ... </h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+<p>
+<!--**Junnyyy/Junnyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
