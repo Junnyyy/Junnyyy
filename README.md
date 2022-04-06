@@ -1,4 +1,4 @@
-<h2 align="center"> 👋 Hi there I'm Johnny </h3>
+<h2 align="center"> 👋 Hi there I'm Johnny! </h3>
 <p align="center">
 </p>
 
@@ -24,7 +24,7 @@ I enjoy teaching others especially about computer science and finance. When I'm 
   
 <hr>
 
-<h2 align="center">  🌱 I’m currently learning ... </h3>
+<h2 align="center">  🌱 I’m currently learning... </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;&nbsp;
