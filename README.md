@@ -19,8 +19,8 @@ I enjoy teaching others especially about computer science and finance. When I'm 
 <hr>
 
 <h2 align="center"> 💬 Ask me about... </h3>
-<p align="center">Coding: C, C++, Java, Javascript, Python, Lua, PHP, ExpressJS, R, HTML, CSS<p>
-<p align="center">Tools: Google Cloud, Heroku, AWS<p>
+<p align="center">C, C++, Java, Javascript, Python, Lua, PHP, ExpressJS, R, HTML, CSS<p>
+<p align="center">Google Cloud, Heroku, AWS<p>
   
 <hr>
 
