@@ -13,7 +13,7 @@ I'm currently a University student majoring in computer science and full stack d
 I enjoy teaching others especially about computer science and finance. When I'm not coding or attending school you can find me tinkering and playing around with cars, enjoying jazz or drinking coffee. Maybe I'm drinking coffee, listening to jazz, and tinkering with cars all at the same time, who knows?
   </samp>
   <br> <br>
-  <img src="https://komarev.com/ghpvc/?username=Junnyyy" alt="https://github.com/Junnyyy" />
+  <img src="https://komarev.com/ghpvc/?username=Junnyyy&style=flat-square" alt="https://github.com/Junnyyy" />
 <p>
   
 <hr>
