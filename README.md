@@ -1,4 +1,4 @@
-<h2 align="center"> 👋 Hi there I'm Johnny! </h3>
+<h2 align="center">👋 Hi there I'm Johnny! </h3>
 <p align="center">
 </p>
 
@@ -18,17 +18,17 @@ I enjoy teaching others especially about computer science and finance. When I'm 
   
 <hr>
 
-<h2 align="center"> 💬 Ask me about... </h3>
-<p align="center">C, C++, Java, Javascript, Python, Lua, PHP, ExpressJS, R, HTML, CSS<p>
+<h2 align="center">💬 Ask me about... </h3>
+<p align="center">C, C++, Java, Javascript, Typescript, Python, Lua, PHP, ExpressJS, R, HTML, CSS<p>  
 <p align="center">Google Cloud, Heroku, AWS<p>
   
 <hr>
 
-<h2 align="center">  🌱 I’m currently learning... </h3>
+<h2 align="center">🌱 I’m currently learning... </h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
 <p>
   
