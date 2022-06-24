@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://user-images.githubusercontent.com/44646589/175475550-ba02c096-a069-45bd-ab27-a155c6563670.png" alt="https://github.com/Junnyyy" />
+<img src="https://user-images.githubusercontent.com/44646589/175486784-a3d8bd5a-ae80-4b03-b3bf-54242ab32678.png" alt="https://github.com/Junnyyy" />
 </p>
 
 <p align="center">
@@ -23,13 +23,14 @@ class Skills extends Information {
   databases  = ['MySQL', 'MongoDB', 'PostgreSQL', 'Firestore'];
   frameworks = ['React', 'NextJS', 'ExpressJS'];
   devops     = ['AWS', 'Google Cloud', 'Azure', 'Vercel', 'OVH', 'Heroku'];
-  tools      = ['Figma', 'Photoshop', 'Premiere', 'After Effects', 'Illustrator'];
+  tools      = ['Photoshop', 'Premiere', 'After Effects', 'Illustrator'];
 }
   
 class Learning extends Information {
   languages  = ['Rust', 'Go', 'Swift'];
   frameworks = ['Angular'];
   devops     = ['Docker'];
+  tools      = ['Figma'];
 }
 ```
 
