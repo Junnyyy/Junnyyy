@@ -1,31 +1,18 @@
-<!-- <h2 align="center">👋 Hi there I'm Johnny! </h3>
-<p align="center">
-</p> -->
-
-<!-- <p align="center">
-<img src="https://user-images.githubusercontent.com/44646589/175474726-a967e36a-6e7d-4023-8919-ddf63b5312f8.gif" alt="https://github.com/Junnyyy" />
-<p> -->
 <p align="center">
 <img src="https://user-images.githubusercontent.com/44646589/175475550-ba02c096-a069-45bd-ab27-a155c6563670.png" alt="https://github.com/Junnyyy" />
 </p>
 
-<!-- <hr> -->
-
 <p align="center">
   <samp>
-I'm currently a University student majoring in computer science and full stack developer that is intaking way too much caffine.
+I'm an energetic and driven 3rd-year college student majoring in Computer Science with a minor in Mathematics and a full-stack developer that intakes too much caffeine.
   </samp>
-  <br>
+  <br/><br/>
   <samp>
-I enjoy teaching others especially about computer science and finance. When I'm not coding or attending school you can find me tinkering and playing around with cars, enjoying jazz or drinking coffee. Maybe I'm drinking coffee, listening to jazz, and tinkering with cars all at the same time, who knows?
+I enjoy teaching others about any subject possible. Whenever I'm not coding or at school you can find me tinkering with cars, computers, or networking. Maybe you find me drinking coffee, tinkering, and listening to music all at once, who knows?
   </samp>
-  <br> <br>
+  <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=Junnyyy&style=flat-square" alt="https://github.com/Junnyyy" />
 </p>
-  
-<!-- <hr>
-
-<h2 align="center">💬 Ask me about... </h3> -->
 
 ```js
 import Information from 'Junnyyy';
@@ -46,10 +33,10 @@ class Learning extends Information {
 }
 ```
 
-<hr>
+<hr/>
 <div align="center">
   <a href="https://github.com/Junnyyy">
-    <img src="https://github-readme-stats.vercel.app/api?username=Junnyyy&custom_title=📊 Github Stats&line_height=24&theme=tokyonight&show_icons=true&hide=contribs&count_private=true&hide_border=true" alt="https://github.com/Junnyyy" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Junnyyy&custom_title=📊 Github Stats&line_height=24&theme=tokyonight&show_icons=true&hide=contribs&include_all_commits=true&count_private=true&hide_border=true" alt="https://github.com/Junnyyy" />
   </a>
   <a href="https://github.com/Junnyyy">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junnyyy&custom_title=📈 Language Usage&layout=compact&theme=tokyonight&count_private=true&hide_border=true" alt="https://github.com/Junnyyy" />
