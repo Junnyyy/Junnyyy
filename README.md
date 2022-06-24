@@ -37,7 +37,7 @@ class Learning extends Information {
 <hr/>
 <div align="center">
   <a href="https://github.com/Junnyyy">
-    <img src="https://github-readme-stats.vercel.app/api?username=Junnyyy&custom_title=📊 Github Stats&line_height=24&theme=tokyonight&show_icons=true&hide=contribs&include_all_commits=true&count_private=true&hide_border=true" alt="https://github.com/Junnyyy" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Junnyyy&custom_title=📊 Github Stats&line_height=24&theme=tokyonight&show_icons=true&hide=contribs&include_all_commits=true&count_private=true&hide_rank=true&hide_border=true" alt="https://github.com/Junnyyy" />
   </a>
   <a href="https://github.com/Junnyyy">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junnyyy&custom_title=📈 Language Usage&layout=compact&theme=tokyonight&count_private=true&hide_border=true" alt="https://github.com/Junnyyy" />
