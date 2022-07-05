@@ -28,7 +28,7 @@ class Skills extends Information {
   
 class Learning extends Information {
   languages  = ['Rust', 'Go', 'Swift'];
-  frameworks = ['Angular'];
+  frameworks = ['Angular', 'React Native'];
   devops     = ['Docker'];
   tools      = ['Figma'];
 }
