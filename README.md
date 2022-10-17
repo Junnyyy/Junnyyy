@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=3l2nt21yqdwxbpfk5lpl1g5zx&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=3l2nt21yqdwxbpfk5lpl1g5zx&cover_image=true&theme=natemoo-re&show_offline=true&bar_color=191a25&bar_color_cover=true" alt="https://github.com/Junnyyy" />
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=3l2nt21yqdwxbpfk5lpl1g5zx&cover_image=true&theme=novatorem&show_offline=true&bar_color=53b14f&bar_color_cover=true" alt="https://github.com/Junnyyy" />
   </a>
 </p>
 
