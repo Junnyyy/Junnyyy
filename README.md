@@ -1,5 +1,13 @@
+<!---
 <p align="center">
 <img src="https://user-images.githubusercontent.com/44646589/175486784-a3d8bd5a-ae80-4b03-b3bf-54242ab32678.png" alt="https://github.com/Junnyyy" />
+</p>
+-->
+
+<p align="center">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=3l2nt21yqdwxbpfk5lpl1g5zx&redirect=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=3l2nt21yqdwxbpfk5lpl1g5zx&cover_image=true&theme=natemoo-re&show_offline=true&bar_color=191a25&bar_color_cover=true" alt="https://github.com/Junnyyy" />
+  </a>
 </p>
 
 <p align="center">
