@@ -10,6 +10,7 @@
   </a>
 </p>
 
+<hr/>
 <p align="center">
   <samp>
 I'm an energetic and driven 3rd-year college student majoring in Computer Science with a minor in Mathematics and a full-stack developer that intakes too much caffeine.
