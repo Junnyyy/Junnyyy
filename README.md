@@ -32,14 +32,14 @@ class Skills extends Information {
   databases  = ['MySQL', 'MongoDB', 'PostgreSQL', 'Firestore'];
   frameworks = ['React', 'NextJS', 'ExpressJS'];
   devops     = ['AWS', 'Google Cloud', 'Azure', 'Vercel', 'OVH', 'Heroku'];
-  tools      = ['Photoshop', 'Premiere', 'After Effects', 'Illustrator'];
+  tools      = ['Photoshop', 'Premiere', 'After Effects', 'Illustrator', 'Figma'];
 }
   
 class Learning extends Information {
   languages  = ['Rust', 'Go', 'Swift'];
   frameworks = ['Angular', 'React Native'];
   devops     = ['Docker'];
-  tools      = ['Figma'];
+  tools      = [];
 }
 ```
 
