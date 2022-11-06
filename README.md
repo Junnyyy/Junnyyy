@@ -30,16 +30,16 @@ class Skills extends Information {
   languages  = ['C', 'C++', 'Java', 'Javascript', 'Typescript', 'Python', 'Lua', 'PHP', 'R', 'Matlab'];
   styling    = ['CSS', 'TailwindCSS'];
   databases  = ['MySQL', 'MongoDB', 'PostgreSQL', 'Firestore'];
-  frameworks = ['React', 'NextJS', 'ExpressJS'];
+  frameworks = ['React', 'NextJS', 'ExpressJS', 'DiscordJS'];
   devops     = ['AWS', 'Google Cloud', 'Azure', 'Vercel', 'OVH', 'Heroku'];
   tools      = ['Photoshop', 'Premiere', 'After Effects', 'Illustrator', 'Figma'];
 }
   
 class Learning extends Information {
   languages  = ['Rust', 'Go', 'Swift'];
-  frameworks = ['Angular', 'React Native'];
+  frameworks = ['tRPC', 'GraphQL', 'React Native'];
   devops     = ['Docker'];
-  tools      = [];
+  tools      = ['Webflow'];
 }
 ```
 
