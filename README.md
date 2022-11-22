@@ -37,7 +37,7 @@ class Skills extends Information {
   
 class Learning extends Information {
   languages  = ['Rust', 'Go', 'Swift'];
-  frameworks = ['tRPC', 'GraphQL', 'React Native'];
+  frameworks = ['Tensorflow', 'tRPC', 'GraphQL', 'React Native'];
   devops     = ['Docker'];
   tools      = ['Webflow'];
 }
