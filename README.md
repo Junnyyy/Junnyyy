@@ -13,11 +13,11 @@
 <hr/>
 <p align="center">
   <samp>
-I'm an energetic and driven 3rd-year college student majoring in Computer Science with a minor in Mathematics and a full-stack developer that intakes too much caffeine.
+My name is Johnny and I am an upcoming Software Engineer Intern @ JPMorgan Chase! I am currently majoring in Computer Science with a minor in Mathematics at the University of Houston!
   </samp>
   <br/><br/>
   <samp>
-I enjoy teaching others about any subject possible. Whenever I'm not coding or at school you can find me tinkering with cars, computers, or networking. Maybe you find me drinking coffee, tinkering, and listening to music all at once, who knows?
+I love learning new things and if you'd like to learn more about me, take a peek at my <a href="https://johnnyle.io/" target="_blank">website</a>!
   </samp>
   <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=Junnyyy&style=flat-square" alt="https://github.com/Junnyyy" />
