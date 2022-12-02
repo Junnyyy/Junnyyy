@@ -4,9 +4,9 @@
 </p>
 -->
 
-<p align="center">
+<p style="margin: auto" align="center">
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=3l2nt21yqdwxbpfk5lpl1g5zx&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=3l2nt21yqdwxbpfk5lpl1g5zx&cover_image=true&theme=novatorem&show_offline=true&bar_color=53b14f&bar_color_cover=true" alt="https://github.com/Junnyyy" />
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=3l2nt21yqdwxbpfk5lpl1g5zx&cover_image=false&theme=default&show_offline=true&background_color=1a1b27&bar_color=a981d8&bar_color_cover=true" alt="https://github.com/Junnyyy" />
   </a>
 </p>
 
