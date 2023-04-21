@@ -5,9 +5,7 @@
 -->
 
 <p style="margin: auto" align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=3l2nt21yqdwxbpfk5lpl1g5zx&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=3l2nt21yqdwxbpfk5lpl1g5zx&cover_image=false&theme=default&show_offline=false&background_color=1a1b27&bar_color=be90f2&bar_color_cover=true" alt="https://github.com/Junnyyy" />
-  </a>
+  <img width="1000" alt="Johnny Github Banner" src="https://user-images.githubusercontent.com/44646589/233739973-6988c492-0097-42f9-a4b2-35087b394f30.png">
 </p>
 
 <hr/>
@@ -52,3 +50,9 @@ class Learning extends Information {
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junnyyy&custom_title=📈%20Language%20Usage&layout=compact&theme=tokyonight&count_private=true&hide_border=true&card_width=300" alt="https://github.com/Junnyyy" />
   </a>
 </div>
+
+<p style="margin: auto" align="center">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=3l2nt21yqdwxbpfk5lpl1g5zx&redirect=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=3l2nt21yqdwxbpfk5lpl1g5zx&cover_image=false&theme=default&show_offline=false&background_color=1a1b27&bar_color=be90f2&bar_color_cover=true" alt="https://github.com/Junnyyy" />
+  </a>
+</p>
