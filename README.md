@@ -37,7 +37,7 @@ class Learning extends Information {
   languages  = ['Rust', 'Go', 'Swift'];
   frameworks = ['Tensorflow', 'GraphQL', 'React Native'];
   devops     = ['Kubernetes'];
-  tools      = ['Webflow'];
+  tools      = ['Webflow', 'Framer'];
 }
 ```
 
