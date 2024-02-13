@@ -4,18 +4,18 @@
 </p>
 -->
 
-<p style="margin: auto" align="center">
+<div style="margin: auto" align="center">
   <img width="1000" alt="Johnny Github Banner" src="https://user-images.githubusercontent.com/44646589/233739973-6988c492-0097-42f9-a4b2-35087b394f30.png">
-</p>
+</div>
 
 <hr/>
 <p align="center">
   <samp>
-My name is Johnny and I am a Software Engineer Intern @ JPMorgan Chase! I am currently majoring in <b>Computer Science</b> with a dual minor in <b>Mathematics</b> & <b>Business Administration</b> at the University of Houston!
+    My name is Johnny and I am an incoming Software Engineer @ JPMorgan Chase! I am currently majoring in <b>Computer Science</b> with a minor in <b>Mathematics</b> at the University of Houston!
   </samp>
   <br/><br/>
   <samp>
-I love learning new things and if you'd like to learn more about me, take a peek at my <a href="https://johnnyle.io/" target="_blank">website</a>!
+    I love learning new things and if you'd like to learn more about me, take a peek at my <a href="https://johnnyle.io/" target="_blank">website</a>!
   </samp>
   <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=Junnyyy&style=flat-square" alt="https://github.com/Junnyyy" />
@@ -35,13 +35,13 @@ class Skills extends Information {
   
 class Learning extends Information {
   languages  = ['Rust', 'Go', 'Swift'];
-  frameworks = ['Tensorflow', 'GraphQL', 'React Native'];
+  frameworks = ['GraphQL', 'React Native'];
   devops     = ['Kubernetes'];
-  tools      = ['Webflow', 'Framer'];
 }
 ```
 
 <hr/>
+
 <div align="center">
   <a href="https://github.com/Junnyyy">
     <img src="https://github-readme-stats.vercel.app/api?username=Junnyyy&custom_title=📊%20Github%20Stats&line_height=24&theme=tokyonight&show_icons=true&hide=contribs&include_all_commits=true&count_private=true&hide_rank=true&hide_border=true&card_width=300" alt="https://github.com/Junnyyy" />
