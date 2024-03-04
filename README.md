@@ -47,7 +47,7 @@ class Learning extends Information {
     <img src="https://stats.johnnyle.io/api?username=Junnyyy&custom_title=📊%20Github%20Stats&line_height=24&theme=tokyonight&show_icons=true&hide=contribs&include_all_commits=true&count_private=true&hide_rank=true&hide_border=true&card_width=300" alt="Johnny's Github Account Statistics" />
   </a>
   <a href="https://github.com/Junnyyy">
-    <img src="https://stats.johnnyle.io/api/top-langs/?username=Junnyyy&custom_title=📈%20Language%20Usage&layout=compact&theme=tokyonight&count_private=true&hide_border=true&card_width=300" alt="Johnny's Github Language Statistics" />
+    <img src="https://stats.johnnyle.io/api/top-langs/?username=Junnyyy&custom_title=📈%20Language%20Usage&layout=compact&theme=tokyonight&count_private=true&hide_border=true&card_width=300&size_weight=0.8&count_weight=0.2" alt="Johnny's Github Language Statistics" />
   </a>
 </div>
 
