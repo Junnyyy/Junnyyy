@@ -11,7 +11,7 @@
 <hr/>
 <p align="center">
   <samp>
-    My name is Johnny and I am an incoming Software Engineer @ JPMorgan Chase! I am currently majoring in <b>Computer Science</b> with a minor in <b>Mathematics</b> at the University of Houston!
+    My name is Johnny and I'm currently creating tools for a better world! I am currently majoring in <b>Computer Science</b> with a minor in <b>Mathematics</b> at the University of Houston!
   </samp>
   <br/><br/>
   <samp>
