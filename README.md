@@ -48,7 +48,7 @@ const useInformation = () => {
 </div>
 
 <p style="margin: auto" align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=3l2nt21yqdwxbpfk5lpl1g5zx&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=3l2nt21yqdwxbpfk5lpl1g5zx&cover_image=false&theme=default&show_offline=false&background_color=1a1b27&bar_color=be90f2&bar_color_cover=true" alt="https://github.com/Junnyyy" />
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=3l2nt21yqdwxbpfk5lpl1g5zx&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3l2nt21yqdwxbpfk5lpl1g5zx&cover_image=false&theme=default&show_offline=false&background_color=1a1b27&bar_color=be90f2&bar_color_cover=true" alt="https://github.com/Junnyyy" />
   </a>
 </p>
