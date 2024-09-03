@@ -11,33 +11,29 @@
 <hr/>
 <p align="center">
   <samp>
-    My name is Johnny and I'm currently creating tools for a better world! I am currently majoring in <b>Computer Science</b> with a minor in <b>Mathematics</b> at the University of Houston!
+    Software engineer @JPMorganChase. Working on React, Electron, and Realtime applications.
   </samp>
   <br/><br/>
   <samp>
-    I love learning new things and if you'd like to learn more about me, take a peek at my <a href="https://johnnyle.io/" target="_blank">website</a>!
+    Visit my little corner of the internet: <a href="https://johnnyle.io/" target="_blank">johnnyle.io</a>.
   </samp>
   <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=Junnyyy&style=flat-square" alt="https://github.com/Junnyyy" />
 </p>
 
-```js
-import Information from 'Junnyyy';
+```ts
+import { useState } from "react";
 
-class Skills extends Information {
-  languages  = ['C', 'C++', 'Java', 'Javascript', 'Typescript', 'Python', 'Lua', 'PHP', 'R', 'Matlab'];
-  styling    = ['CSS', 'TailwindCSS'];
-  databases  = ['MySQL', 'MongoDB', 'PostgreSQL', 'Firestore'];
-  frameworks = ['React', 'NextJS', 'ExpressJS', 'DiscordJS', 'tRPC', 'Prisma'];
-  devops     = ['AWS', 'Google Cloud', 'Azure', 'Vercel', 'OVH', 'Heroku', 'Docker'];
-  tools      = ['Photoshop', 'Premiere', 'After Effects', 'Illustrator', 'Figma'];
-}
-  
-class Learning extends Information {
-  languages  = ['Rust', 'Go', 'Swift'];
-  frameworks = ['Electron', 'Tarui', 'React Native'];
-  devops     = ['Kubernetes'];
-}
+const useInformation = () => {
+  const [skills, setSkills] = useState({
+    languages: ["C", "C++", "Java", "Javascript", "Typescript", "Python"],
+    styling: ["CSS", "TailwindCSS"],
+    databases: ["MySQL", "MongoDB", "PostgreSQL", "Firestore"],
+    frameworks: ["React", "NextJS", "Electron", "tRPC"],
+  });
+
+  return { skills };
+};
 ```
 
 <hr/>
@@ -56,3 +52,4 @@ class Learning extends Information {
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=3l2nt21yqdwxbpfk5lpl1g5zx&cover_image=false&theme=default&show_offline=false&background_color=1a1b27&bar_color=be90f2&bar_color_cover=true" alt="https://github.com/Junnyyy" />
   </a>
 </p>
+```
