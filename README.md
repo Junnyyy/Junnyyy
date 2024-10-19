@@ -11,7 +11,7 @@
 <hr/>
 <p align="center">
   <samp>
-    Software engineer @JPMorganChase. Working on React, Electron, and Realtime applications.
+    Software engineer <a href="https://www.jpmorganchase.com/" target="_blank">@JPMorganChase</a>. Working on React, Electron, and Realtime applications.
   </samp>
   <br/><br/>
   <samp>
