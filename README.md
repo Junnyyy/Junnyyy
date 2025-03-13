@@ -2,14 +2,30 @@
 <p align="center">
 <img src="https://user-images.githubusercontent.com/44646589/175486784-a3d8bd5a-ae80-4b03-b3bf-54242ab32678.png" alt="https://github.com/Junnyyy" />
 </p>
--->
 
 <div style="margin: auto" align="center">
   <img width="1000" alt="Johnny Github Banner" src="https://user-images.githubusercontent.com/44646589/233739973-6988c492-0097-42f9-a4b2-35087b394f30.png">
 </div>
+-->
 
-<hr/>
-<p align="center">
+<div style="margin: auto" align="center">
+  <img width="1000" alt"Johnny Github Banner" src="https://github.com/user-attachments/assets/c424d200-34a6-4924-a6f1-9a1905e72fbe">
+</div>
+
+<br/>
+
+> <samp>Software engineer <a href="https://www.jpmorganchase.com/" target="_blank">@JPMorganChase</a>. Working on React, Electron, and Realtime applications.</samp>
+>
+> <samp>Visit: <a href="https://johnnyle.io/" target="_blank">johnnyle.io</a>.</samp>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Junnyyy&style=flat-square&color=445348&label=Views" alt="https://github.com/Junnyyy" />
+
+
+
+<!---
+<p align="left">
   <samp>
     Software engineer <a href="https://www.jpmorganchase.com/" target="_blank">@JPMorganChase</a>. Working on React, Electron, and Realtime applications.
   </samp>
@@ -52,3 +68,4 @@ const useInformation = () => {
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3l2nt21yqdwxbpfk5lpl1g5zx&cover_image=false&theme=default&show_offline=false&background_color=1a1b27&bar_color=be90f2&bar_color_cover=true" alt="https://github.com/Junnyyy" />
   </a>
 </p>
+-->
