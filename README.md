@@ -14,7 +14,7 @@
 
 <br/>
 
-> <samp>Software engineer <a href="https://www.jpmorganchase.com/" target="_blank">@JPMorganChase</a>. Working on React, Electron, and Realtime applications.</samp>
+> <samp>Software engineer <a href="https://www.jpmorganchase.com/" target="_blank">@JPMorganChase</a>. Working on React, Electron, and Realtime agentic applications.</samp>
 >
 > <samp>Visit: <a href="https://johnnyle.io/" target="_blank">johnnyle.io</a>.</samp>
 
