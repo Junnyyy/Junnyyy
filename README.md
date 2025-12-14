@@ -9,14 +9,14 @@
 -->
 
 <div style="margin: auto" align="center">
-  <img width="1000" alt"Johnny Github Banner" src="https://github.com/user-attachments/assets/0cb5b5f3-9a70-4d96-913c-98b262945917">
+  <img width="1000" alt"Johnny Github Banner" src="https://github.com/user-attachments/assets/6f2ec75d-9ada-4ab6-91da-7d1aae101ab6">
 </div>
 
 <br/>
 
-> <samp>Software engineer <a href="https://www.jpmorganchase.com/" target="_blank">@JPMorganChase</a>. Working on React, Electron, and Developer Tooling.</samp>
+> <samp>Software engineer <a href="https://www.jpmorganchase.com/" target="_blank">@JPMorganChase</a></samp>
 >
-> <samp>Visit: <a href="https://johnnyle.io/" target="_blank">johnnyle.io</a>.</samp>
+> <samp><a href="https://johnnyle.io/" target="_blank">johnnyle.io</a></samp>
 
 <br/>
 
