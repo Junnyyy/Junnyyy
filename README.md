@@ -9,7 +9,7 @@
 -->
 
 <div style="margin: auto" align="center">
-  <img width="1000" alt"Johnny Github Banner" src="https://github.com/user-attachments/assets/c424d200-34a6-4924-a6f1-9a1905e72fbe">
+  <img width="1000" alt"Johnny Github Banner" src="https://github.com/user-attachments/assets/0cb5b5f3-9a70-4d96-913c-98b262945917">
 </div>
 
 <br/>
