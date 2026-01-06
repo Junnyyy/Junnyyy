@@ -9,9 +9,8 @@
 -->
 
 <div style="margin: auto" align="center">
-  <img width="1000" alt"Johnny Github Banner" src="https://github.com/user-attachments/assets/6f2ec75d-9ada-4ab6-91da-7d1aae101ab6">
+  <img width="1000" height="300" alt="Johnny Github Banner" src="https://github.com/user-attachments/assets/09423fd3-3154-421c-81ed-f5c5dc41df92" />
 </div>
-
 <br/>
 
 > <samp>Software engineer <a href="https://www.jpmorganchase.com/" target="_blank">@JPMorganChase</a></samp>
